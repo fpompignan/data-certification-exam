@@ -1,0 +1,7 @@
+{
+    "MEDIAN_AGE": "positive effect\n\n",
+    "T_STAT": "1.820\n\nt_statistic = (Xbarre - mu)/(s/racine(size of the sample))\n\n",
+    "P_VALUE": "\nDepending on the choice of feature, we may not be able to conclude anything about median_age if his p-values is too high (0,128)\n",
+    "INCREASE": "\nwhen the share of families with a married couple increases by 1 percentage point in the district, \nthe total number of incidents decrease of 2115.1839\n",
+    "LIMITATIONS": "\nA high R2 does not implies statistical significance\nWe have to compute the p-value to show statistical significance and in ou case, many features have a pvalue too high\n(PERC_LESS_THAN_HIGH_SCHOOL,PERC_COLLEGE_GRADUATES,PERC_OF_30_34)\n"
+}
